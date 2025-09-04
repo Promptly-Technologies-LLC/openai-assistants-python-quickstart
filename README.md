@@ -1,5 +1,7 @@
 # OpenAI Assistants API Quickstart with Python, Jinja2, FastAPI, and HTMX
 
+(Note: due to the deprecation of the assistants API, this project is no longer maintained. Please use our [OpenAI Responses API Quickstart](https://github.com/Promptly-Technologies-LLC/openai-responses-python-quickstart) template instead.)
+
 A quick-start template using the OpenAI [Assistants API](https://platform.openai.com/docs/assistants/overview) with [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), [Jinja2](https://jinja.palletsprojects.com/en/3.1.x/), and [HTMX](https://htmx.org/).
 
 ## Quickstart Setup
